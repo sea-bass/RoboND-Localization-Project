@@ -20,7 +20,7 @@
     <param name="initial_cov_xx" value="0.01"/>
     <param name="initial_cov_yy" value="0.01"/>
     <param name="laser_min_range" value="0.2"/>
-    <param name="laser_max_range" value="30.0"/>
+    <param name="laser_max_range" value="20.0"/>
     <param name="laser_max_beams" value="720"/>
     <param name ="laser_sigma_hit" value="0.01"/>
   </node>
